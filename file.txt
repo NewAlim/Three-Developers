@@ -1,2 +1,2 @@
 This is first line.
-Developers: First Developer, Second Developer, Third Developer.
+Developers: First Developer, Second Developer, Mr. Third Developer.
