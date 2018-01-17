@@ -1,2 +1,2 @@
 This is first line.
-Developers: Первый Разработчик, Mr. Second, Mr. Third.
+Developers: Первый Разработчик, Второй Разработчикd, Mr. Third.
